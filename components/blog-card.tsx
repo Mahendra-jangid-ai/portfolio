@@ -22,7 +22,7 @@ interface BlogCardProps {
 export function BlogCard({ post }: BlogCardProps) {
   return (
     <Link href={`/blog/${post.id}`}>
-      <Card className="group h-full border-border/50 transition-all hover:shadow-lg m-auto">
+      <Card className="group h-full border-border/50 transition-all hover:shadow-lg">
         <CardHeader className="p-0">
           <div className="aspect-video w-full overflow-hidden rounded-t-lg bg-muted">
             <img
