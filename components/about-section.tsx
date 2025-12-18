@@ -37,14 +37,18 @@ export function AboutSection() {
 
         <div className="mb-16 space-y-6 text-lg leading-relaxed">
           <p className="text-pretty">
-            I'm a full-stack developer with over 5 years of experience in creating web applications. I specialize in
-            React, Next.js, Node.js, and modern web technologies. My passion lies in transforming ideas into elegant,
-            user-friendly solutions.
+            I am a BCA student with a strong passion for Artificial Intelligence, Machine Learning, and Web Development. Currently, I am gaining hands-on experience as an intern at Capsitech while studying at Capsitech Institute & Technology.
+
+            I have skills in HTML, CSS, JavaScript, React, API integration, Python, Pandas, and NumPy, with a focus on AI and machine learning applications.
+
+            I am passionate about using technology to solve real-world problems and continuously expanding my knowledge.
+
+            🌐 Explore my projects on GitHub: github.com/Mahendra-jangid-ai
           </p>
-          <p className="text-pretty">
+          {/* <p className="text-pretty">
             Throughout my career, I've worked with startups and established companies, helping them build products that
             users love. I'm always eager to take on new challenges and expand my skill set.
-          </p>
+          </p> */}
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
