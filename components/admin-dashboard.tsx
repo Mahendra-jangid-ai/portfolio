@@ -47,7 +47,7 @@ export function AdminDashboard() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col">
+    <div className="flex min-h-screen flex-col m-auto">
       <header className="sticky top-0 z-50 border-b border-border bg-background">
         <div className="container flex h-16 items-center justify-between px-4">
           <div className="flex items-center gap-4">

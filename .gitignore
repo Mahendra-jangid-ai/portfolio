@@ -25,3 +25,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# OS / User specific
+*.log
+.DS_Store
+Thumbs.db
