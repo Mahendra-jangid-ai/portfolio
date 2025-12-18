@@ -4,7 +4,7 @@ import { Calendar, Clock } from "lucide-react"
 import Link from "next/link"
 
 interface BlogPost {
-  id: string
+  _id: string
   title: string
   excerpt: string
   category: string
@@ -21,7 +21,7 @@ interface BlogCardProps {
 
 export function BlogCard({ post }: BlogCardProps) {
   return (
-    <Link href={`/blog/${post.id}`}>
+    <Link href={`/blog/${post._id}`}>
       <Card className="group h-full border-border/50 transition-all hover:shadow-lg">
         <CardHeader className="p-0">
           <div className="aspect-video w-full overflow-hidden rounded-t-lg bg-muted">
