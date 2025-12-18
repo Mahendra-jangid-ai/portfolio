@@ -8,7 +8,7 @@ export function Footer() {
         <div className="mx-auto max-w-5xl">
           <div className="mb-8 flex justify-center gap-4">
             <a
-              href="https://mahendra-jangid-ai.github.com"
+              href="https://github.com/Mahendra-jangid-ai"
               target="_blank"
               rel="noopener noreferrer"
               className="flex h-12 w-12 items-center justify-center rounded-full bg-background transition-colors hover:bg-accent"
