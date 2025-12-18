@@ -68,7 +68,7 @@ export function AdminDashboard() {
         </div>
       </header>
 
-      <main className="flex-1 container px-4 py-8 m-auto">
+      <main className="flex-1 px-4 py-8 m-auto">
         <Tabs value={activeTab} onValueChange={setActiveTab} className="space-y-6">
           <TabsList className="grid w-full grid-cols-2 lg:w-auto lg:grid-cols-5">
             <TabsTrigger value="overview">Overview</TabsTrigger>
