@@ -77,9 +77,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body
-        className={`${geist.className} ${geistMono.className} antialiased`}
-      >
+      {/* <body
+        className={`${geist.className} ${geistMono.className} antialiased`} 
+      > */}
+      <body className={`font-sans antialiased`}>
         {/* ✅ Global Center Wrapper */}
         <div className="w-full">
           <div className="mx-auto max-w-7xl px-4">
