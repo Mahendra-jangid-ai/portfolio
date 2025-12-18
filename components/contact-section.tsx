@@ -74,8 +74,8 @@ export function ContactSection() {
                   <Mail className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <div className="font-medium">Email</div>
-                    <a href="mailto:john@example.com" className="text-sm text-muted-foreground hover:text-foreground">
-                      john@example.com
+                    <a href="mailto:mahendra.jangid.official.com" className="text-sm text-muted-foreground hover:text-foreground">
+                      mahendra.jangid.official.com
                     </a>
                   </div>
                 </div>
@@ -83,8 +83,8 @@ export function ContactSection() {
                   <Phone className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <div className="font-medium">Phone</div>
-                    <a href="tel:+1234567890" className="text-sm text-muted-foreground hover:text-foreground">
-                      +1 (234) 567-890
+                    <a href="tel:+918905187368" className="text-sm text-muted-foreground hover:text-foreground">
+                     +91 8905187368
                     </a>
                   </div>
                 </div>
@@ -92,7 +92,7 @@ export function ContactSection() {
                   <MapPin className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <div className="font-medium">Location</div>
-                    <p className="text-sm text-muted-foreground">San Francisco, CA</p>
+                    <p className="text-sm text-muted-foreground">Jodhpur, Rajasthan</p>
                   </div>
                 </div>
               </CardContent>
