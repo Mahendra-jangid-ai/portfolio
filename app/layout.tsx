@@ -39,7 +39,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`font-sans antialiased`}>
-        <div className="m-auto w-[1400px]">
+        <div className="m-auto container">
         {children}
         </div>
         <Analytics />
