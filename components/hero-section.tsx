@@ -11,14 +11,14 @@ export function HeroSection() {
         </div>
 
         <h1 className="mb-6 animate-fade-in text-balance text-5xl font-bold leading-tight tracking-tight sm:text-6xl lg:text-7xl">
-          Hi, I'm <span className="text-primary">John Doe</span>
+          Hi, I'm <span className="text-primary">Mahendra Jangid</span>
         </h1>
 
         <p
           className="mb-8 animate-fade-in text-balance text-xl text-muted-foreground sm:text-2xl"
           style={{ animationDelay: "0.1s" }}
         >
-          Full-Stack Developer & Software Engineer
+          AI ML Engineer
         </p>
 
         <p
