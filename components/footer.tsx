@@ -8,7 +8,7 @@ export function Footer() {
         <div className="mx-auto max-w-5xl">
           <div className="mb-8 flex justify-center gap-4">
             <a
-              href="https://github.com"
+              href="https://mahendra-jangid-ai.github.com"
               target="_blank"
               rel="noopener noreferrer"
               className="flex h-12 w-12 items-center justify-center rounded-full bg-background transition-colors hover:bg-accent"
@@ -17,7 +17,7 @@ export function Footer() {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex h-12 w-12 items-center justify-center rounded-full bg-background transition-colors hover:bg-accent"
@@ -35,7 +35,7 @@ export function Footer() {
               <Twitter className="h-5 w-5" />
             </a>
             <a
-              href="mailto:john@example.com"
+              href="mailto:mahendra.jangid.official.com"
               className="flex h-12 w-12 items-center justify-center rounded-full bg-background transition-colors hover:bg-accent"
               aria-label="Email"
             >
@@ -44,7 +44,7 @@ export function Footer() {
           </div>
 
           <div className="border-t border-border/40 pt-8 text-center text-sm text-muted-foreground">
-            <p>© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Mahendra Jangid. All rights reserved.</p>
             <div className="mt-2 flex justify-center gap-4">
               <Link href="/blog" className="hover:text-foreground">
                 Blog
