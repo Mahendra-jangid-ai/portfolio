@@ -43,7 +43,7 @@ export function AboutSection() {
 
             I am passionate about using technology to solve real-world problems and continuously expanding my knowledge.
 
-            🌐 Explore my projects on GitHub: github.com/Mahendra-jangid-ai
+            {/* 🌐 Explore my projects on GitHub: github.com/Mahendra-jangid-ai */}
           </p>
           {/* <p className="text-pretty">
             Throughout my career, I've worked with startups and established companies, helping them build products that
