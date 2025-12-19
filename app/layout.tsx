@@ -78,9 +78,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className="font-sans antialiased m-auto container">
+      <body className="font-sans antialiased">
+        <div className="m-auto container">
         <AnimatedBackground />
         {/* <FloatingTechStack /> */}
+        </div>
         <CursorTrail />
         {children}
         <Analytics />
